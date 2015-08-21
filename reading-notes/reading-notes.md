@@ -12,3 +12,9 @@ http://www.forbes.com/sites/paulmiller/2015/07/20/huawei-bears-open-source-gifts
 `Dr. Wang Chenglu, President of Huawei Central Software, commented,
 
 Spark, as the most influential community among Apache projects and as preeminent framework of data processing and analytics, has been our focus and top priority. We believe that putting Spark as the core to our big data solution can bring significant benefits to our customers, keeping up with technology innovations driven by the ecosystem while maximizing their IT investments from the adoption of best practices and other customers’ success.`
+
+# 
+联通上半年建网规模
+`
+[cp]【中国联通上半年新建基站27.2万个 总数达83.7万个】中国联通2015年上半年业绩报告显示，其上半年新建基站27.2万个，总数达83.7万个，上半年资本开支为298.3亿元。按照规划，到今年年底基站总数将达120万个，其中4G基站50万个，将建成全球最大的FDD网络。(C114南山)http://t.cn/RLkIH2B[/cp]
+`
